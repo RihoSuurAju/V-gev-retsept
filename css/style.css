@@ -1,0 +1,17 @@
+* {
+    font-family: 'Indie Flower', cursive;
+}
+body {
+    background-color: #ff70838f;
+    color: rgba(187, 113, 1, 0.966);
+    font-size: 105%;
+}
+hr {
+    width: 23%;
+    border-width: 0.69rem;
+    border-style: dotted none none;
+    color:rgba(160, 79, 4, 0.603);
+}
+a {
+    color:rgba(223, 91, 29, 0.616);
+}
